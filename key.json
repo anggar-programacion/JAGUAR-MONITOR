@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-jaguar-control",
+  "private_key_id": "b563f3271fe0a9b568d241b83a6d97a6bd43dd4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdVI2HGDjeyI+m\nFlfuvhEO1LR3m6gfy11ytAwRj0wLNOy2+RMbSGhp6fPqoq0gF/3OPZRTsYbc5ruu\ngtqwOm/J8XCGQuL9Q0LoYQ9d70ML0trsllRgLn/i/CVRPMDUbrK//t6nXzN4f6Tp\n4biVBMzTTTuB5PJCrXWmCg7lbWmYYafoJSkIgHVep9s3anVqHDSP4chP4GxN6VZD\nPve3kmjk+jtBBuHTdNy8LMuwNADzXUNWm2AJ6hV5L4kx5963lrx4qZdzmjQEUBQw\nA3MYRwoUNBenJuOwYxjDn8KQhbef6RVusjI7Sgmb+BoAhiyoc0AFQ3ZZ4zOMiz+i\nSRNMG7vtAgMBAAECggEAGntjOCheWDeToF317qBtAB1TBCf9+F4TjG1cc682WlON\n/a12pxq8wokn7qhzsil/pfGtEBpbbD7lO/ZYJ54qd2gtq9fB2+Xwsus1ejb+BtU2\n1uhl6uugyJzvDhnHDmrUqScWJL+MSx3XLSv6lRDCBlYjbFWUZp9KZIigYcNVKRoR\nZ3z1aRLAa9JdyY+Cq7Xl2sR+4hd9yi1xSUR85l8vL7JiFwsWTrcYFj82K2Kpt+lR\n4X/8a2S0UY/iBiQT+apglBZ0EVhw7q3j8GFscci43hK8/21E9Khtusq3p+tKtKTJ\nsL0NeHDA5NkqXQyfARpXHPoVJYAzHY4aajSeKgEJoQKBgQDK/mfOqYbXZWe+gr8/\nET/x2qPcK6+4o+dL414QURfKilO8ap0SBzozJbzg9iMphGfhYu4w7iILlfv77MuL\nF9Ao32gHMeln9LDgVlcvcj3PDzt9mgPMc2FH8M6QOlBW3/rphVscGkfnkLO5ldvz\n3pYzuOYhMt80k1Zeckm+jn6nYQKBgQDGaaod7xdhQ1BmmQ6xyOU6fqa/9ZsCVMsD\nIora4izRAXWQJU54xWQnrf8rKf7+O8TtBFkOMUYZTV+ki7t839XvDTm9PG2i0F68\ns0ZPKnqsaCMY+iFb2dRojljEItdqoC8A6hst1bhkNEiizmtyOdh+lxj35NnNpzHI\nQBuifgK8DQKBgQC4NHpg2AeryLKG98Cya2Xag+x0LBSOefW3MME4D06GllX8Qcb9\nCB/xMAqhHdq0nxlhNtQtBLtSRi1e4/ek5dwYavrMpKdIlYw4V0FQpdue3RTAGpXd\n3snlbYkU6kXjP+dCJ6iQ7OxZHz9oZqwtNcyZbO0wLSjNXfJfTFjNGiOmoQKBgGf6\nrf079EuzhCoQYiQHfSHXh7mnk9F38GA3NP+achQiKKMe+e3OvDsTM1tCifBgEEaJ\n9cW7Stots0a/N8UsZKf/jVe/mFEv08YeSWVphJpfhK0tQFgrYuZcWuaGv8+QHLHk\n/dNaYmSZBcvUU3isGenVc29ODlp5GVyxRAo28WXtAoGAV8JLk4ihz6h16rdJHFYU\nrA4LPtwZvj411iAAu79sqVMq7IAjzKKTkdZIj10V5F/20y5lGMRCNJYuX8O0dZJB\n8PGnMmZzQrPp8bHPilWjo21uo6lIsoY4VY/+S2vnpgD99p3Z+kju2j1BqqfSCX7u\n8xFbnSSFhIR8WtljBtXYohA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-servicios-sheet@app-jaguar-control.iam.gserviceaccount.com",
+  "client_id": "104557408520588269337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-servicios-sheet%40app-jaguar-control.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
